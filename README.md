@@ -13,7 +13,7 @@
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-[jq_scroll](https://jiang-lijun.github.io/jq_scroll/)
+https://zhiyuanda.github.io/jq_scroll/
 
 ## 网页代码如下：
 
